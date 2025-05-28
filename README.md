@@ -1,17 +1,26 @@
 # Omnify_Assesment
 ✅ Selenium Test Automation Framework (TestNG + Java + Maven)
+
 This project is a robust Selenium-based test automation framework built using **Java**, **TestNG**, and **Maven**. It supports scalable web UI testing, handles test configuration through property files, and includes features like test report generation and automated copying of reports to the user's Downloads folder.
 
 ## 📌 Table of Contents
 
 *[📦 Project Structure](#-project-structure)
+
 *[🧰 Technologies Used](#-technologies-used)
+
 *[⚙️ Setup & Installation](#️-setup--installation)
+
 *[📊 Test Reports](#-test-reports)
+
 *[🛠️ Customization](#️-customization)
+
 *[🧪  How to Run the Framework](#-how-to-run-the-framework)
+
 *[🧪 Test Report/Output Screenshot]
+
 *[📌 Features / Best Practices Followed](#-best-practices-followed)
+
 *[👤 Author](#-author)
 
 
