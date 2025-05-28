@@ -7,9 +7,9 @@ This project is a robust Selenium-based test automation framework built using **
 *[📦 Project Structure](#-project-structure)
 *[🧰 Technologies Used](#-technologies-used)
 *[⚙️ Setup & Installation](#️-setup--installation)
-* [📊 Test Reports](#-test-reports)
+*[📊 Test Reports](#-test-reports)
 *[🛠️ Customization](#️-customization)
-* [🧪  How to Run the Framework](#-how-to-run-the-framework)
+*[🧪  How to Run the Framework](#-how-to-run-the-framework)
 *[🧪 Test Report/Output Screenshot]
 *[📌 Features / Best Practices Followed](#-best-practices-followed)
 *[👤 Author](#-author)
@@ -175,6 +175,7 @@ After test execution, reports are generated and managed as follows:
 This allows for easier access and archiving of past reports outside the project structure.
 
 ## Report/Output Screenshot
+![Screenshot 2025-05-28 121035](https://github.com/user-attachments/assets/ac86bade-eb98-4373-a278-8e179f9d2fec)
 
 
 
