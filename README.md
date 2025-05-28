@@ -82,10 +82,9 @@ Eclipse IDE for Enterprise Java and Web Developers – Version 2025-06 M2 (4.36.
 Google Chrome Browser – Version 136.0.7103.114
 
 Stable Internet Connection –
-Required for:
-        TestNG installation
 
-        WebDriverManager (auto-downloads browser drivers)
+Required for:
+        TestNG installation and WebDriverManager (auto-downloads browser drivers)
 
 
 ## 🛠️  Customization
