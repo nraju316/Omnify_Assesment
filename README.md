@@ -93,7 +93,7 @@ Required for:
 | `employee2`  | Additional employee entry             |
 | `employee3`  | Additional employee entry             |
 | `employee4`  | Additional employee entry             |
-
+```
 Example:
 ```properties
 baseUrl=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login  
@@ -103,7 +103,7 @@ employee1=John,F.,Doe
 employee2=Alice,B.,Smith  
 employee3=Michael,B.,Brown  
 employee4=Sara,M.,Connor  
-
+```
 
 ##🧪  How to Run the Framework
 
@@ -113,7 +113,6 @@ Install Eclipse IDE
 
 Download and install Eclipse IDE for Java Developers:
 👉 https://www.eclipse.org/downloads
-
 
 download the Github repository ZIP and extract it locally.
 
@@ -148,7 +147,6 @@ Add maven to your Build Path
 	Click on java Build Path -> Libraries -> Class Path -> Add libraries
 	
 	Click on TestNG -> Next -> Finish        
-
 
 Run the Tests
 
