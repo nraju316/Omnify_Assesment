@@ -114,8 +114,7 @@ employee3=Michael,B.,Brown
 employee4=Sara,M.,Connor  
 ```
 
-##🧪  How to Run the Framework
-
+**##🧪  How to Run the Framework**
 ##🔧  Step-by-Step Setup
 
 Install Eclipse IDE
