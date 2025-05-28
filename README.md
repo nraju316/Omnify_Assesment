@@ -17,7 +17,7 @@ This project is a robust Selenium-based test automation framework built using **
 
 *[🧪  How to Run the Framework](#-how-to-run-the-framework)
 
-*[🧪 Test Report/Output Screenshot][#-Report/Output-Screenshot]
+*[🧪 Report/Output Screenshot][#-Report/Output-Screenshot]
 
 *[📌 Features / Best Practices Followed](#-best-practices-followed)
 
