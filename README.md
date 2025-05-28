@@ -185,7 +185,7 @@ This allows for easier access and archiving of past reports outside the project 
 
 ## Report/Output Screenshot
 ![Screenshot 2025-05-28 121035](https://github.com/user-attachments/assets/ac86bade-eb98-4373-a278-8e179f9d2fec)
-
+![image](https://github.com/user-attachments/assets/4105904a-1ca5-4e88-a5a5-a4178b5d1218)
 
 
 ## 📌 Features / Best Practices Followed
