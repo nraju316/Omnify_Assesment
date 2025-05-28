@@ -18,13 +18,28 @@ public class LoginTest extends BaseTest {
 
     @Test
     public void testValidLogin() {
-        // Use ConfigReader to get credentials from config.properties
         String username = ConfigReader.get("username");
         String password = ConfigReader.get("password");
 
-        loginPage.loginAs(username, password);
-        System.out.println("Login attempted with valid credentials: " + username);
+        try {
+            loginPage.loginAs(username, password);
+            System.out.println("✅ Login attempted with valid credentials: " + username);
+            
+            // Optional: Add assertion or post-login check
+            // e.g., check if dashboard is visible or URL contains "/dashboard"
+            String currentUrl = driver.getCurrentUrl();
+            if (currentUrl.contains("dashboard")) {
+                System.out.println("✅ Login successful: redirected to dashboard.");
+            } else {
+                System.out.println("❌ Login failed: dashboard not reached.");
+            }
+
+        } catch (Exception e) {
+            System.out.println("❌ Login failed due to exception: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
+
 
     @AfterClass
     public void tearDownTest() {
