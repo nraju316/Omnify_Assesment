@@ -11,11 +11,11 @@ This project is a robust Selenium-based test automation framework built using **
 
 *[⚙️ Setup & Installation](#️-setup--installation)
 
-*[📊 Test Reports](#-test-reports)
-
 *[🛠️ Customization](#️-customization)
 
 *[🧪  How to Run the Framework](#-how-to-run-the-framework)
+
+*[📊 Test Reports](#-test-reports)
 
 *[🧪 Test Report/Output Screenshot](#-Report/Output-Screenshot)
 
